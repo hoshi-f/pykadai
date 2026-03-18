@@ -1,6 +1,7 @@
 # Task CLI App
 
 PythonとMySQLを使用したシンプルなタスク管理CLIアプリ。
+
 機能
 * タスク登録：下記項目の登録が可能
   
